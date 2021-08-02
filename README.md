@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jpgwapo
+- 👀 I have many years of experience in building, maintaining and web sites development. I know Python, PHP + MySQL, HTML, CSS, JavaScript. I've worked with such framework as Laravel, CodeIgniter, CakePHP and others. I am responsible to complete the task in time and properly. I am always available by all means of communication. I like challenging tasks! Right now I would like to focus on AI and machine learning with Python.
